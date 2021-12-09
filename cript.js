@@ -1,4 +1,4 @@
-(function() {
+function() {
   var $animate, $container, $message, $paragraph, MESSAGES, animate, initialise, scramble;
 
   MESSAGES = [];
